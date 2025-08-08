@@ -11,14 +11,14 @@ const Subscribe = () => {
         <span className="text-[#FF6452]"> Updates </span> & NewsLetter.
       </h3>
 
-      <div className="lg:max-w-[40%] w-full flex items-center justify-between p-2.5 border border-[#6D6D6D] rounded-full">
+      <form className="lg:max-w-[40%] w-full flex items-center justify-between p-2.5 border border-[#6D6D6D] rounded-full">
         <input
           type="text"
           placeholder="subscribe@nike.com"
-          className="flex-1 bg-transparent outline-none text-base px-4"
+          className="bg-transparent outline-none text-base px-4"
         />
         <Button label="Sign Up" />
-      </div>
+      </form>
     </section>
   );
 };

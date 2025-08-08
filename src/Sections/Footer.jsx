@@ -53,7 +53,7 @@ function Footer() {
           <p>CopyRight. All Rights reserved.</p>
 
         </div>
-        <p classname="font-mono cursor-pointer">Terms and Conditions</p>
+        <p className="font-mono cursor-pointer">Terms and Conditions</p>
 
       </div>
     </footer>
