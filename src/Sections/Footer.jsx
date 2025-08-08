@@ -50,7 +50,7 @@ function Footer() {
           height={20}
           className="rounded-full m-0"
           />
-          <p>CopyRight. All rights reserved.</p>
+          <p>CopyRight. All Rights reserved.</p>
 
         </div>
         <p classname="font-mono cursor-pointer">Terms and Conditions</p>

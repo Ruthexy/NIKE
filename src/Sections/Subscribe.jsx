@@ -8,7 +8,7 @@ const Subscribe = () => {
     >
       <h3 className="text-4xl leading-[68px] lg:max-w-md font-sans font-bold">
         Sign Up for
-        <span className="text-[#FF6452]"> Updates </span> & NewsLetter
+        <span className="text-[#FF6452]"> Updates </span> & NewsLetter.
       </h3>
 
       <div className="lg:max-w-[40%] w-full flex items-center justify-between p-2.5 border border-[#6D6D6D] rounded-full">

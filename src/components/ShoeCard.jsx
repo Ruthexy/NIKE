@@ -16,7 +16,7 @@ const ShoeCard = ({ imgURL, changeBigShoeImage, bigShoeImg }) => {
       <div className="flex justify-center items-center bg-[url('assets/images/thumbnail-background.svg')] bg-center bg-cover sm:w-40 sm:h-40 rounded-xl max-sm:p-4">
         <img
           src={imgURL.thumbnail}
-          alt="Shoe Collection"
+          alt="Shoe Collection!"
           width={127}
           height={103}
           className="object-contain"

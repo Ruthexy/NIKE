@@ -11,7 +11,7 @@ const CustomerReviews = () => {
       </h3>
       <p className="font-sans text-[#6D6D6D] text-lg leading-7 m-auto mt-4 max-w-lg text-center">
         Hear genuine stories from our satisfied customers about their
-        exceptional experiences with us.
+        exceptional experiences with us!
       </p>
       <div className="mt-24 flex flex-1 justify-evenly items-center max-lg:flex-col gap-14 ">
         {reviews.map((review) => (

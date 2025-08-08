@@ -19,7 +19,7 @@ const SpecialOffers = () => {
         </h2>
         <p className="mt-4 lg:max-w-lg font-mono font-semibold text-[#6D6D6D] text-lg leading-7 ">
           Embark on a shopping journey that redefines your experience with
-          unbeatable deals. From premier selections to incredible savings, we
+          unbeatable deals! From premier selections to incredible savings, we
           offer unparallel values that sets us apart.
         </p>
         <p className="mt-6 lg:max-w-lg font-mono font-semibold text-[#6D6D6D] text-lg leading-7 ">
